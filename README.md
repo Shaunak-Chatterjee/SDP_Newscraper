@@ -17,6 +17,6 @@ It is a chrome extension written in React which scraps top news website to show 
 
 ### Contributions
 
-Shaunak Chattopadhyay
-Sumit Kumar
-Shaktijit Rautaray
+Shaunak Chattopadhyay <br />
+Sumit Kumar <br />
+Shaktijit Rautaray <br />
