@@ -12,5 +12,5 @@ To run the script, you would need the following libraries:<br />
 <br />
 To run the script double click on the assemble.py and wait for it to complete.
 
-##Frontend
-News Scrapper is a chrome extension written in React which scraps top news website to show news articles to users in condensed form.
+## Frontend <br />
+It is a chrome extension written in React which scraps top news website to show news articles to users in condensed form.
