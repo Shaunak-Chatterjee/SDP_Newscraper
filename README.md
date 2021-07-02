@@ -14,3 +14,9 @@ To run the script double click on the assemble.py and wait for it to complete.
 
 ## Frontend <br />
 It is a chrome extension written in React which scraps top news website to show news articles to users in condensed form.
+
+### Contributions
+
+Shaunak Chattopadhyay
+Sumit Kumar
+Shaktijit Rautaray
