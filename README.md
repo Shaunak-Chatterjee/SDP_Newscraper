@@ -1,5 +1,7 @@
 # SDP_Newscraper
 
+## Made for Senior Design Project, by GROUP-D8 of CSIT-D 2017 (ITER,S'O'A Deemed to be University).
+
 ## Backend
 ### A power command line tool to extract news from various popular sources, handpicked various genres for your choice.
 
